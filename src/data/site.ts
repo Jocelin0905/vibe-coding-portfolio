@@ -1,7 +1,7 @@
 export const siteConfig = {
-  name: "Jocelin’s Vibe Coding Lab",
+  name: "Things I Wish Existed",
   shortName: "Things I Wish Existed",
   tagline: "Small ideas. Real products.",
   githubUrl: "https://github.com/Jocelin0905",
-  siteUrl: "https://vibe-coding-portfolio-blue-two.vercel.app",
+  siteUrl: "https://things-i-wish-existed.vercel.app",
 };

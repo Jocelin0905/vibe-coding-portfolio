@@ -6,7 +6,7 @@ export function AboutPage() {
   return (
     <>
       <Seo
-        title="About | Jocelin’s Vibe Coding Lab"
+        title="About — Things I Wish Existed"
         description="About Jocelin’s approach to turning product ideas into real, usable software."
         path="/about"
       />
@@ -30,4 +30,3 @@ export function AboutPage() {
     </>
   );
 }
-

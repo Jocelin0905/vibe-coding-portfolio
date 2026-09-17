@@ -138,7 +138,7 @@ export const projects: Project[] = [
       "Hash Router 能降低静态托管的路由配置成本，同时需要接受 URL 形式上的取舍。",
     ],
     seo: {
-      title: "Life Progress | Jocelin’s Vibe Coding Lab",
+      title: "Life Progress — Things I Wish Existed",
       description: "Life Progress 是一个把时间与现实目标转换成直观进度条的移动优先网页产品。",
     },
   },
@@ -224,7 +224,7 @@ export const projects: Project[] = [
       "建立了 GitHub、分支、PR、Vercel Production 和自动部署的基本工作流。",
     ],
     seo: {
-      title: "Life Price | Jocelin’s Vibe Coding Lab",
+      title: "Life Price — Things I Wish Existed",
       description: "Life Price 把商品价格转换成工作时间，帮助用户重新理解一笔消费的真实成本。",
     },
   },
@@ -307,7 +307,7 @@ export const projects: Project[] = [
       "环境问题要先判断权限边界，不能在同一个受限环境里反复尝试系统级操作。",
     ],
     seo: {
-      title: "Life Roulette | Jocelin’s Vibe Coding Lab",
+      title: "Life Roulette — Things I Wish Existed",
       description: "Life Roulette 通过随机挑战帮助用户跳出选择困难，完成一个现实世界中的小行动。",
     },
   },

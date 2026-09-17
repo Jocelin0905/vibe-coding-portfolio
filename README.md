@@ -1,6 +1,6 @@
-# Jocelin’s Vibe Coding Lab
+# Things I Wish Existed
 
-A mobile-first product portfolio for Jocelin’s shipped Vibe Coding projects.
+A mobile-first portfolio for Jocelin’s shipped products.
 
 ## Stack
 
@@ -26,4 +26,3 @@ pnpm build
 ```
 
 The production deployment uses `BrowserRouter` with the SPA rewrite in `vercel.json`.
-

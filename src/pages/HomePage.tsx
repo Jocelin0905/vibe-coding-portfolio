@@ -9,8 +9,8 @@ export function HomePage() {
   return (
     <>
       <Seo
-        title="Jocelin’s Vibe Coding Lab — Product Portfolio"
-        description="Jocelin’s Vibe Coding product portfolio, featuring real products taken from idea to production."
+        title="Things I Wish Existed — Jocelin"
+        description="Jocelin’s product portfolio, featuring real products taken from idea to production."
       />
       <section className="hero shell">
         <div className="hero__copy">

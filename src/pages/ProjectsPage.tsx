@@ -6,8 +6,8 @@ export function ProjectsPage() {
   return (
     <>
       <Seo
-        title="Projects | Jocelin’s Vibe Coding Lab"
-        description="Explore Jocelin’s shipped Vibe Coding products and the decisions behind them."
+        title="Projects — Things I Wish Existed"
+        description="Explore Jocelin’s shipped products and the decisions behind them."
         path="/projects"
       />
       <section className="page-intro shell">
